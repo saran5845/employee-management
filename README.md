@@ -19,6 +19,9 @@ Here is steps you can follow to Clone this project
 <div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
 </div></div>
 
+ <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre style="position: relative;"> php artisan migrate
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
+</div></div>
  <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre style="position: relative;"> php artisan serve<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
 </div></div>
 
@@ -26,4 +29,7 @@ Here is steps you can follow to Clone this project
 </div></div>
  <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre style="position: relative;"> npm run dev <div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
 </div></div>
+<div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre style="position: relative;"> Download the databse from here <div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
+</div></div>
+
 </ul>
