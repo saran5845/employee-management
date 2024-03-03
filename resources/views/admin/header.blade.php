@@ -67,7 +67,7 @@
               <i class="menu-arrow"></i>
             </a>
 
-            <div class="collapse" id="ui-basic">
+            <div class="show" id="ui-basic">
               <ul class="nav flex-column sub-menu">
               <li class="nav-item"> <a class="nav-link" href="{{route('dashboard.index')}}">Employee List</a></li>
                 <li class="nav-item"> <a class="nav-link" href="{{route('dashboard.create')}}">Add Employee</a></li>
