@@ -15,4 +15,10 @@ Here is steps you can follow to Clone this project
 <div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
 </div></div>
 
-    </ul>
+ <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre style="position: relative;"> php artisan storage:link
+<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
+</div></div>
+
+ <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto"><pre style="position: relative;"> php artisan serve<div class="open_grepper_editor" title="Edit &amp; Save To Grepper"></div></pre><div class="zeroclipboard-container">
+</div></div>
+</ul>
