@@ -30,7 +30,12 @@ class EmpController extends Controller
      */
     public function create()
     {
-        return view('admin.create');
+         if(Auth::user()->role == 1){
+             return view('admin.create');
+         }
+         else {
+             return redirect('dashboard');
+         }
     }
 
     /**
